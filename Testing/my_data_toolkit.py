@@ -1,3 +1,6 @@
-import numpy as np
-from matplotlib import pyplot as plt
+
 #%%
+
+CANVAS_TOKEN = '21450~DW6PNuctLaDQFPxrrRLN6feUv7QPAnByQQYCmDAvZ2ZG4D8BBCH2G3Y6UMLW9FPY'
+
+# Will expire tmw, dont touch
